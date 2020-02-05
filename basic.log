@@ -1,0 +1,41 @@
+2020-01-27 16:18:38,064 INFO [root] - added correctly
+2020-01-28 14:29:37,063 ERROR [root] - all information return
+2020-01-28 14:29:58,070 ERROR [DesignUI.class] - design ui done
+2020-01-28 14:30:02,438 ERROR [root] - all information return
+2020-01-28 14:30:07,582 WARN [root] - customer deleted
+2020-01-28 14:30:09,478 ERROR [root] - all information return
+2020-01-28 14:30:31,806 FATAL [root] - Customer modified
+2020-01-28 14:30:33,430 ERROR [root] - all information return
+2020-01-28 14:42:23,862 ERROR [root] - return all customer detail
+2020-01-28 14:42:50,974 INFO [root] - customer is added
+2020-01-28 14:42:50,974 ERROR [DesignUI.class] - design ui done
+2020-01-28 14:42:57,814 WARN [root] - customer deleted
+2020-01-28 14:43:11,998 FATAL [root] - Customer modified
+2020-01-28 14:43:14,014 WARN [root] - all customer deleted
+2020-01-28 14:55:40,471 INFO [root] - customer is added
+2020-01-28 14:55:40,471 ERROR [DesignUI.class] - design ui done
+2020-01-28 15:04:26,895 INFO [root] - customer is added
+2020-01-28 15:04:26,896 ERROR [DesignUI.class] - customer is added
+2020-01-28 17:02:49,344 FATAL [root] - Customer modified
+2020-01-28 17:15:45,295 ERROR [root] - return all customer detail
+2020-01-28 17:16:29,151 WARN [root] - all customer deleted
+2020-01-28 17:16:55,199 ERROR [root] - return all customer detail
+2020-01-28 17:16:56,932 WARN [root] - all customer deleted
+2020-01-28 17:32:41,206 FATAL [root] - Customer modified
+2020-01-28 17:35:53,007 WARN [root] - all customer deleted
+2020-01-28 17:39:16,919 ERROR [root] - return all customer detail
+2020-01-28 17:40:40,326 WARN [root] - all customer deleted
+2020-01-28 17:53:33,361 ERROR [root] - return all customer detail
+2020-01-28 17:54:28,928 WARN [root] - all customer deleted
+2020-01-28 18:01:12,369 ERROR [root] - return all customer detail
+2020-01-29 18:26:10,970 ERROR [DesignUI.class] - customer is added
+2020-01-29 18:27:34,826 ERROR [DesignUI.class] - customer is added
+2020-01-29 18:28:15,668 ERROR [DesignUI.class] - customer is added
+2020-01-29 18:33:04,681 ERROR [DesignUI.class] - customer is added
+2020-01-30 09:05:57,514 INFO [root] - customer is added
+2020-01-30 09:05:59,616 ERROR [root] - return all customer detail
+2020-01-30 09:06:14,464 WARN [root] - customer deleted
+2020-01-30 09:06:16,576 ERROR [root] - return all customer detail
+2020-01-30 09:06:44,872 FATAL [root] - Customer modified
+2020-01-30 15:39:19,102 ERROR [root] - return all customer detail
+2020-01-31 12:34:46,734 ERROR [root] - return all customer detail
